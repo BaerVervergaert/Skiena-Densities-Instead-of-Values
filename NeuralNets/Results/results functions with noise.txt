@@ -1,0 +1,51 @@
+Approximations, standard net vs net with std, standard net > net with std
+Net size: (10, 3)
+	Constant Target Constant Noise: -9.938322455579769, -9.866754892700623, False
+	Linear Target Constant Noise: -6.672183501828666, -5.530467382334072, False
+	Square Target Constant Noise: -4.781079684114809, -5.126362819479773, True
+	Sigmoid Target Constant Noise: -4.9057652577344, -4.957996307644904, True
+	Cosine Target Constant Noise: -3.9991423254818517, -5.112903628783363, True
+	Step Target Constant Noise: -5.343460855336847, -5.180424359746352, False
+	Constant Target Square Noise: -5.595689357542579, -6.212995951187509, True
+	Linear Target Square Noise: -5.691516610141523, -6.048028417479523, True
+	Square Target Square Noise: -6.416564500200297, -6.671205935710061, True
+	Sigmoid Target Square Noise: -6.898344746575851, -7.5659314126938115, True
+	Cosine Target Square Noise: -5.1629887742950755, -1.0562041522997796, False
+	Step Target Square Noise: -5.7505667637744144, -6.4631086339990516, True
+	Constant Target Inverted Square Noise: -7.02847542743986, -5.730627578870459, False
+	Linear Target Inverted Square Noise: -5.477184348444879, -7.368651680250435, True
+	Square Target Inverted Square Noise: -5.417142057472252, -7.631926507347469, True
+	Sigmoid Target Inverted Square Noise: -4.890471490073545, -6.608413687545892, True
+	Cosine Target Inverted Square Noise: -5.0641386140596145, -5.552766000789084, True
+	Step Target Inverted Square Noise: -5.680930639854342, -5.227474189794385, False
+	Constant Target Step Noise: -9.39163376423138, -6.096950014325013, False
+	Linear Target Step Noise: -8.184378997932614, -7.981651724146832, False
+	Square Target Step Noise: -5.808860442750825, -6.049854182413958, True
+	Sigmoid Target Step Noise: -5.527984949113622, -6.144853453769086, True
+	Cosine Target Step Noise: -5.089029301561842, -3.6332504201173412, False
+	Step Target Step Noise: -5.4152752058695945, -5.080180811145098, False
+Net size: (100, 10)
+	Constant Target Constant Noise: -5.1969921266585555, -5.067049770773352, False
+	Linear Target Constant Noise: -5.000615685607708, -5.097881939327102, True
+	Square Target Constant Noise: -5.828718586008818, -4.939253552454485, False
+	Sigmoid Target Constant Noise: -5.151323474675416, -5.3198327575672195, True
+	Cosine Target Constant Noise: -3.3216469369271326, -3.0969748599091753, False
+	Step Target Constant Noise: -6.061292300956969, -5.879516371486127, False
+	Constant Target Square Noise: -6.585892043042668, -7.312401227745157, True
+	Linear Target Square Noise: -5.240572537988891, -5.225284441299381, False
+	Square Target Square Noise: -4.2568418966643256, -4.960479183465581, True
+	Sigmoid Target Square Noise: -5.8433807705031295, -6.234430021976967, True
+	Cosine Target Square Noise: -3.7597186821299977, -3.418543328664414, False
+	Step Target Square Noise: -7.07327838368665, -7.087385514848989, True
+	Constant Target Inverted Square Noise: -4.863386181694802, -6.404961277140327, True
+	Linear Target Inverted Square Noise: -4.904504565419971, -5.583775888056404, True
+	Square Target Inverted Square Noise: -5.910450362599665, -5.452779535981796, False
+	Sigmoid Target Inverted Square Noise: -4.683133929610212, -6.273238496280837, True
+	Cosine Target Inverted Square Noise: -3.9488859477594853, -0.8312304506114715, False
+	Step Target Inverted Square Noise: -4.133773290397182, -4.609816270279833, True
+	Constant Target Step Noise: -7.907217645005454, -7.167579050955817, False
+	Linear Target Step Noise: -5.150875259118032, -4.969229344592107, False
+	Square Target Step Noise: -5.852855921011895, -6.449556470564645, True
+	Sigmoid Target Step Noise: -5.734743348472723, -8.224900356529334, True
+	Cosine Target Step Noise: -0.6930253560869268, -3.6920112724107983, True
+	Step Target Step Noise: -5.562207998087346, -3.8602261031868403, False

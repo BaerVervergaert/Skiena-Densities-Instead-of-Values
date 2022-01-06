@@ -1,0 +1,23 @@
+Approximations, standard net vs net with std, standard net > net with std
+Net size: (10, 3)
+	Brownian Motion Test 1: -1.6190437259535602, -3.98756260734144, True
+	Brownian Motion Test 2: -4.604533758790585, -3.5865112502404233, False
+	Brownian Motion Test 3: -4.196387031213919, -4.0689452025767014, False
+	Brownian Motion Test 4: -4.573998945378208, -4.570848026367811, False
+	Brownian Motion Test 5: -4.6061458720345785, -4.3576648913158325, False
+	Brownian Motion Test 6: -5.065405304517824, -4.789720517743778, False
+	Brownian Motion Test 7: -4.46173110346111, -4.0507331615631434, False
+	Brownian Motion Test 8: -4.049802037558056, -4.026679221895932, False
+	Brownian Motion Test 9: -4.572536763802796, -3.9562551324101696, False
+	Brownian Motion Test 10: -3.776867040894907, -4.615724226799445, True
+Net size: (100, 10)
+	Brownian Motion Test 1: -5.357713588512067, -4.7650037772666884, False
+	Brownian Motion Test 2: -4.570001848637369, -4.229959833863742, False
+	Brownian Motion Test 3: -5.154667066907069, -4.470520236271099, False
+	Brownian Motion Test 4: -5.339319773593034, -5.397127085244175, True
+	Brownian Motion Test 5: -4.989234590064433, -4.7838709013767104, False
+	Brownian Motion Test 6: -4.836691942438079, -4.6635175648430165, False
+	Brownian Motion Test 7: -5.499695798420033, -5.053069947086827, False
+	Brownian Motion Test 8: -5.307863133559361, -4.549203003032849, False
+	Brownian Motion Test 9: -4.830164425829478, -4.8694089459797025, True
+	Brownian Motion Test 10: -5.1598645845617765, -3.3632635245359035, False
